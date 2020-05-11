@@ -5,6 +5,6 @@ Thi map contains the visualization of the neighbourhoods in Toronto.
 
 ![The first map](Map1.PNG)
 
-This map contains the clusters of neighbourhoods using the *K*-Means ML algorithm.
+This map contains the clusters of neighbourhoods using the *K*-Means Machine Learning algorithm.
 
 ![The second map](Map2.PNG)
